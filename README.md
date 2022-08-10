@@ -2,7 +2,7 @@
 
 This repository shows my project during theMaratona Explorer 3.0 by Rocketseat. The course presents an introduction of HTML and CSS and this repository shows my coffee menu project.
 
-strong-maamoul-a20bf8.netlify.app
+link: https://strong-maamoul-a20bf8.netlify.app
 
 ### QR Code 
 
