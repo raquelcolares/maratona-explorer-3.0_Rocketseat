@@ -4,7 +4,7 @@ This repository shows my project during theMaratona Explorer 3.0 by Rocketseat. 
 
 link: https://strong-maamoul-a20bf8.netlify.app
 
-<img src="https://github.com/raquelcolares/maratona-explorer-3.0_Rocketseat/blob/main/Menu%20image/RocketCoffee.jpg" width="800">
+<img src="https://github.com/raquelcolares/maratona-explorer-3.0_Rocketseat/blob/main/Menu%20image/RocketCoffee.jpg" width="500">
 
 ### QR Code 
 
